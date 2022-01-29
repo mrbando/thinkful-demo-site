@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#topText {
+    width: 100%;
+    background-color: blanchedalmond;
+    height: 5vw;
+    z-index: 100;
+}
+
+#myTitle {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 11.2vw;
+    position: absolute;
+    margin-left: 9%;
+    margin-top: 7px;
+    text-align: center;
+}
+
+#myAttributes {
+    font-family: 'Epilogue', sans-serif;
+    color: white;
+    margin-top: .4vw;
+    font-size: 30px;
+    text-align: center;
+}
+
+#elementHeader {
+    background-color: coral;
+    height: 7vw;
+    border-bottom: black solid 5px;
+    z-index: 200;
+}
+
+#infobar {
+    background-color: brown;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    z-index: 300;
+    border-bottom: black solid 5px;
+}
+
+nav {
+    background-color: red;
+    z-index: 400;
+    position: fixed;
+    margin-left: 46%;
+    margin-bottom: 3em;
+}
+
+#pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    margin-top: 100px;
+}
+
+figcaption {
+    color: black;
+    text-align: center;
+}
+
+article {
+    text-align: center;
+    font-family: 'Epilogue', sans-serif ;
+    margin-top: 50px;
+}
+
+#list {
+    padding: 20px;
+}
+h2 {
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+
+#interests {
+    padding: 20px;
+}
